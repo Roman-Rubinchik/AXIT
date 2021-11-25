@@ -1,0 +1,184 @@
+
+@media (max-width:1150px) {
+    .person__item-name {
+        font-size: 16px;
+        padding-bottom: 0px;
+    }
+
+    .person__item-position {
+        font-size: 12px;
+    }
+}
+
+@media (max-width:1050px) {
+    .header__section-form {
+        display: none;
+    }
+
+    .header__section-info {
+        width: 100%;
+        align-items: center;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .header__section-about {
+        align-items: center;
+    }
+
+    .header__section-about-title {
+        text-align: center;
+    }
+
+    .header__section-about-subtitle {
+        text-align: center;
+    }
+
+    .social__section {
+        padding: 10px 30px;
+    }
+
+    .social__section-text {
+        width: 35%;
+    }
+
+    .social__section-icons {
+        width: 55%;
+    }
+
+    .card__title-second {
+        margin-bottom: 57px
+    }
+
+    .review__column {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .review__column-item {
+        width: 100%;
+        margin-bottom: 15px;
+        flex-direction: row;
+        justify-content: center;
+}
+
+    .person__item {
+        margin-top: 5px;
+        width: 180px;
+        margin-left: 20px;
+    }
+
+    .person__item-img {
+        width: 85px;
+    }
+
+    .review__column-text {
+        width: 45%;
+    }
+
+    .person__item-text {
+        margin-left: 10px;
+    }
+}
+
+@media (max-width:900px) {
+    .header-nav__link {
+        margin-right: 24px;
+    }
+
+    .features__img {
+        display: none;
+    }
+
+    .tab {
+        width: 13%;
+        margin-right: 60px
+    }
+
+    .features__item {
+        width: 60.9%;
+        margin-right: 0;
+    }
+
+    .process__section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .process {
+        margin-top: 100px;
+    }
+
+    .process__item {
+        width: 100%;
+    }
+
+    .pricing__content-table-first {
+        height: 40px;
+        font-size: 17px;
+    }
+
+    .pricing__content-table-second {
+        height: 60px;
+        font-size: 25px;
+    }
+
+    .pricing__content-table-third {
+        height: 40px;
+        font-size: 12px;
+    }
+
+    .pricing__content-table td {
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .contacts__section .block-heading__title {
+        margin-bottom: 0px;
+    }
+
+    .contacts__section .block-heading__subtitle {
+        padding-top: 0px;
+    }
+
+    .contact__form {
+        padding: 45px 111px 17px 111px;
+    }
+}
+
+@media (max-width:767px) {
+    .nav {
+        display: none;
+    }
+
+    .header__nav_menu {
+        display: block;
+    }
+
+    .header__nav_container {
+        padding-left: 50px;
+        padding-right: 50px; 
+    }
+
+    .header__section-about-title {
+        font-size: 24px;
+    }
+
+    .card__icon {
+        margin-bottom: 7px;
+    }
+
+    .card__title {
+        margin-bottom: 9px;
+    }
+
+    .stylish__section {
+        height: 100%;
+    }
+
+    .stylish__section-heading {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+
